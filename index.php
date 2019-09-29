@@ -56,7 +56,7 @@ if(isset($_POST['signup'])){
 					<div class="row">
 						<div class="col-lg-8">
 							<div class="main-frame text-center">
-								<h1 style="font-size:400%;"><strong>ENDEAVOR - EDUTECH</strong></h1>
+								<h1 style="font-size:400%;"><strong>JC DEVELOPER</strong></h1>
 								<h3>Online Exam Portal</h3>
 								<a style="position:fixed;bottom:0;left:0;" class="btn btn-primary btn-block" href="admin.php">Go To Admin Section</a>
 							</div>

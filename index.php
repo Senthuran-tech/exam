@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-		<title>Circular Navigation - Demo 1 | Codrops</title>
+		<title>JC DEVELOPER</title>
 		<meta name="description" content="Circular Navigation Styles - Building a Circular Navigation with CSS Transforms | Codrops " />
 		<meta name="keywords" content="css transforms, circular navigation, round navigation, circular menu, tutorial" />
 		<meta name="author" content="Sara Soueidan for Codrops" />
@@ -70,5 +70,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <script src="http://tympanus.net/codrops/adpacks/demoad.js"></script>
 	</body>
 </html>
+
 
 
